@@ -4,7 +4,7 @@ Repositorio de curso de Desarrollo de Aplicaciones Web
 
 Creación de repositorio Git personal con página estática.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Emilio Moran Pilligua
 
 ### Markdown
 
