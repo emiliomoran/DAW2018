@@ -1,0 +1,77 @@
+aside#recientes
+{
+    border: 1px solid black;
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+}
+
+section#principal
+{
+    border: 1px solid blue;
+    width: 1000px;
+    display: inline-block;
+    vertical-align: top;    
+}
+
+section#top{
+	display: flex;
+}
+
+section#top time{
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 18px;
+	margin: auto;
+}
+
+section#top form{
+	margin-left: auto;
+	margin: auto;
+}
+
+nav {
+	background: darkblue;
+	padding: 0.1% 0%;
+	text-align: center;
+	position: sticky;
+	top: 0px;
+	border: 1px solid;
+}
+
+
+
+ul li {
+	display: inline;
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	font-family: sans-serif;
+	font-size: 24px;
+	margin: 0% 5%;
+}
+
+header {
+	display: block;	
+}
+
+header h1{
+	text-decoration: none;
+	font-weight: bold;
+	color: darkblue;
+	font-family: sans-serif;
+	font-size: 60px;	
+	text-align: center;
+	font-style: italic;
+}
+
+footer {
+	position: sticky;
+	width: 1263px;
+	bottom: 0px;
+	left: -2px;
+	z-index: 999;
+	border: 1px solid;
+	background-color: white;
+	text-align: center;
+}
