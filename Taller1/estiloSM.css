@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
+.principal {
+	overflow-x: scroll;
+	overflow-y: hidden;
+	white-space: nowrap;        
+}
+
+[class*="1"] {
+    background-color: #f7fade;
+}
+
+[class*="2"] {
+    background-color: #dfedd6;
+}
+
+[class^="caja"] {
+	border: 2px solid #606060;
+	border-radius: 10px;
+	width: 120px;
+	height: 144px;
+	margin: auto 17px auto 0px;
+	display: inline-block;
+}
+
+.contenido-caja {
+	font-family: 'Baloo', cursive;
+	font-size: 36px;
+	font-weight: bold;
+	margin: 44px 0px 44px 17px;	
+	align-content: center;
+}
