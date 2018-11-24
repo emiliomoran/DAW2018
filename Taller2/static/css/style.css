@@ -1,0 +1,52 @@
+*[class*='col'] {
+	margin: 1% 0%;
+}
+
+.div_t {
+	border-bottom: 2px solid gray;
+}
+
+.time_t {
+	float: right;
+}
+
+.titulo {
+	background-color: blue;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+.a_link {
+	display: block;
+}
+
+i {
+	font-size:80px !important;
+}
+
+.div_i, .div_t {
+	display: inline-block;
+}
+
+.Emoji {
+	width: 7% !important;
+}
+
+.div_i, .div_t {
+	display: inline-block;
+}
+
+#id_buscador {
+	border-radius: 4pt;
+}
+
+@media only screen and (max-width: 400px) {
+	i {
+		font-size:40px !important;
+	}  
+
+	.Emoji {
+		width: 20% !important;
+	}  
+}
